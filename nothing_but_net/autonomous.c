@@ -1,4 +1,4 @@
-#include "functions.c"
+#include "../shared/functions.c"
 
 void redAuton() {
 	flywheels(127);

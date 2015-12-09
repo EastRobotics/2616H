@@ -1,4 +1,4 @@
-#include "functions.c"
+#include "../shared/functions.c"
 
 void controller() {
 	bool slowDrive = false;
