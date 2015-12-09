@@ -1,2 +1,6 @@
-# 2616H
-Code for VEX team 2616H
+Nothing but Net 2616H
+=====================
+
+Todo:
+- [ ] Integrate with [SmartMotorLib](https://github.com/jpearman/smartMotorLib)
+- [ ] Remove hardcoded motor names from `functions.c`
